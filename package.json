@@ -1,0 +1,19 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "### INTRODUCTION A simple To Do List application built with Node.js and Express. This application will help us write, organize, and reprioritize your tasks more efficiently. The main aim of developing this application is to explore the working of nodejs and expressjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mugure-Inez/To-Do.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mugure-Inez/To-Do/issues"
+  },
+  "homepage": "https://github.com/Mugure-Inez/To-Do#readme"
+}
